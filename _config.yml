@@ -33,7 +33,7 @@ disqus_shortname: TangPing
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 6d15b192d73a69463fc0b480857e2aff
+baidu_tongji_id: e5764349b9d4fe7759781ae41207610c
 
 
 # Build settings
